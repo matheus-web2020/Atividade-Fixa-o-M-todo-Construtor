@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\bin\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.exe
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\bin\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.deps.json
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\bin\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\bin\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\bin\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.dll
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\bin\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.dll
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.pdb
+C:\Users\Matheus\Desktop\SENAI\Exercício_de_FixaçãoPOO\obj\Debug\netcoreapp3.1\Exercício_de_FixaçãoPOO.genruntimeconfig.cache
